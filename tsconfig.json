@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "module": "ES2015",
+        "allowJs": true,
+        "target":"ES2016",
+    }
+}
